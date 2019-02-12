@@ -1,0 +1,7 @@
+C:\Users\elanursengun-pc\Desktop\proje_dizin\Matrislerin\Matrislerin\bin\Debug\Matrislerin.exe.config
+C:\Users\elanursengun-pc\Desktop\proje_dizin\Matrislerin\Matrislerin\bin\Debug\Matrislerin.exe
+C:\Users\elanursengun-pc\Desktop\proje_dizin\Matrislerin\Matrislerin\bin\Debug\Matrislerin.pdb
+C:\Users\elanursengun-pc\Desktop\proje_dizin\Matrislerin\Matrislerin\obj\Debug\Matrislerin.csprojAssemblyReference.cache
+C:\Users\elanursengun-pc\Desktop\proje_dizin\Matrislerin\Matrislerin\obj\Debug\Matrislerin.csproj.CoreCompileInputs.cache
+C:\Users\elanursengun-pc\Desktop\proje_dizin\Matrislerin\Matrislerin\obj\Debug\Matrislerin.exe
+C:\Users\elanursengun-pc\Desktop\proje_dizin\Matrislerin\Matrislerin\obj\Debug\Matrislerin.pdb
